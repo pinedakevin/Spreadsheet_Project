@@ -54,4 +54,4 @@ Commits on Oct 21, 2021
 Commits on Oct 22, 2021
 
 
-![alt text](https://github.com/pinedakevin/Spreadsheet_Project/blob/Spreadsheet/Spreadsheet_Screeshot.png?raw=true)
+![alt text](https://github.com/pinedakevin/Spreadsheet_Project/blob/Spreadsheet/Spreadsheet.png?raw=true)
